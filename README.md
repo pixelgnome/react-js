@@ -1,4 +1,4 @@
-# react-js app
+# React.js App
 
 Small overview of React.js brochure that covers and was was coded with the following React Essentials:
 
@@ -6,4 +6,6 @@ Small overview of React.js brochure that covers and was was coded with the follo
 - Jsx
 - Props
 - States
-- 
+
+Download, run 'npm install', the 'npm run dev' to start the app.
+  
