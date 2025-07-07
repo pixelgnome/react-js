@@ -1,5 +1,3 @@
-import './CoreConcept.css';
-
 export default function CoreConcept({title, image, description}) {
   return (
     <li>
