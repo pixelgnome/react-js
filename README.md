@@ -7,5 +7,5 @@ Small overview of React.js brochure that covers and was was coded with the follo
 - Props
 - States
 
-Download, run 'npm install', the 'npm run dev' to start the app.
+Download, run `npm install`, then `npm run dev` to start the app.
   
